@@ -1,5 +1,5 @@
 # An Opinionated Spring Boot Configuration
-This is a simple Spring Boot for reading entities (in our case, a book) from an embedded H2 database.
+This is a simple Spring Boot RESTful API for reading entities (in our case, a book) from an embedded H2 database.
 
 ## Getting Started
 
